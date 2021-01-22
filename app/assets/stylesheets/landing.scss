@@ -31,3 +31,30 @@ color: #fffaf0;
 font-size: 18px;
 margin-top: 0px;
 text-decoration: none;}
+
+
+///////////////////
+
+.container-phone{
+  width: 55%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);}
+
+.slogan-phone{display: flex;
+ justify-content: center;
+ font-family: Beatrice, sans-serif;
+color: #fffaf0;
+margin-bottom: 0px;
+text-align: center;
+font-size: 18px;
+text-align: center;}
+.contact-phone a { display: flex;
+ justify-content: center;
+ font-family: Beatrice, sans-serif;
+color: #fffaf0;
+font-size: 18px;
+margin-top: 0px;
+text-decoration: none;}
