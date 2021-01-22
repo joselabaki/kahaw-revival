@@ -2,7 +2,9 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: https://sass-lang.com/
 body {background-color: #258a43;}
-@font-face { font-family: Beatrice; src: url('Beatrice-Light.otf'); }
+@font-face { font-family: Beatrice; src: url('Beatrice-Light.otf');
+        src: font_url('Beatrice-Light.otf');
+}
 
 .container {
   width: 27%;
